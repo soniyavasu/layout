@@ -105,6 +105,18 @@
 	height:300px;
 	margin:10px 0;
 }
+.text{
+	background-color:white;
+	width:auto;
+	height:50px;
+	margin:10px 0;
+}
+.icons{
+	background-color:white;
+	width:auto;
+	height:50px;
+	margin:10px 0;
+}
 .flex-item-1{
 	width:8.33%;
 	flex:0 0 auto;
