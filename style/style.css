@@ -3,10 +3,17 @@
 	padding:0;
 	box-sizing:border-box;
 }
+.container-value{
+	background-color:black;
+	width:1270px;
+	margin:0 auto;
+	padding:0 15px;
+}
 .container{
 	width:1170px;
 	margin:0 auto;
 	padding:0 15px;
+	background-color:black;
 }
 .con-value{
 	align-items:center;
@@ -23,6 +30,10 @@
 	padding:10px 0;
 }
 .baner{
+	background-color:white;
+	padding:80px 0;
+}
+.baner2{
 	background-color:#1A6C6A;
 	padding:80px 0;
 }
@@ -39,7 +50,7 @@
 	margin:10px 0;
 }
 .content{
-	background-color:white;
+	background-color:#1A6C6A;
 	width:auto;
 	height:200px;
 	margin:10px 0;
@@ -57,25 +68,25 @@
 	margin:10px 0;
 }
 .num-one{
-	background-color:white;
+	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
 	margin:10px 0;
 }
 .num-two{
-	background-color:white;
+	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
 	margin:10px 0;
 }
 .num-three{
-	background-color:white;
+	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
 	margin:10px 0;
 }
 .num-four{
-	background-color:white;
+	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
 	margin:10px 0;
@@ -111,10 +122,70 @@
 	height:50px;
 	margin:10px 0;
 }
+.bgc-text1{
+	background-color:#1A6C6A;
+	width:auto;
+	height:400px;
+	margin:10px 0;
+}
+.bgc-text2{
+	background-color:#1A6C6A;
+	width:auto;
+	height:400px;
+	margin:10px 0;
+}
+.bgc-text3{
+	background-color:#1A6C6A;
+	width:auto;
+	height:400px;
+	margin:10px 0;
+}
+.bgc-text-one{
+	background-color:white;
+	width:auto;
+	height:400px;
+	margin:10px 0;
+}
+.bgc-text-two{
+	background-color:white;
+	width:auto;
+	height:400px;
+	margin:10px 0;
+}
+.bgc-text-three{
+	background-color:white;
+	width:auto;
+	height:400px;
+	margin:10px 0;
+}
 .icons{
 	background-color:white;
 	width:auto;
 	height:50px;
+	margin:10px 0;
+}
+.text-one{
+	background-color:#1A6C6A;
+	width:auto;
+	height:250px;
+	margin:10px 0;
+}
+.text-two{
+	background-color:#1A6C6A;
+	width:auto;
+	height:250px;
+	margin:10px 0;
+}
+.text-three{
+	background-color:#1A6C6A;
+	width:auto;
+	height:250px;
+	margin:10px 0;
+}
+.text-four{
+	background-color:#1A6C6A;
+	width:auto;
+	height:250px;
 	margin:10px 0;
 }
 .flex-item-1{
