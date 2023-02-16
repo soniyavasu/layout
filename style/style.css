@@ -3,12 +3,6 @@
 	padding:0;
 	box-sizing:border-box;
 }
-.container-value{
-	background-color:black;
-	width:1350px;
-	margin:0 auto;
-	padding:0 15px;
-}
 .container{
 	width:1170px;
 	margin:0 auto;
@@ -22,7 +16,7 @@
 	flex-wrap:wrap;
 	margin-left:-15px;
 	margin-right:-15px;
-	padding:0 5;
+	padding:0 15px;
 }
 .header{
 	background-color:#1A6C6A;
@@ -40,80 +34,67 @@
 	background-color:white;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .nav-bar{
 	background-color:white;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .content{
 	background-color:#1A6C6A;
 	width:auto;
 	height:200px;
-	margin:10px 0;
 }
 .content1{
 	background-color:white;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .image-one{
 	background-color:white;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .num-one{
 	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .num-two{
 	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .num-three{
 	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .num-four{
 	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .bgc-text{
 	background-color:white;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 
 .cont-one{
 	background-color:white;
 	width:auto;
 	height:300px;
-	margin:10px 0;
 }
 .cont-two{
 	background-color:white;
 	width:auto;
 	height:300px;
-	margin:10px 0;
 }
 .cont-three{
 	background-color:white;
 	width:auto;
 	height:300px;
-	margin:10px 0;
 }
 .text{
 	background-color:white;
@@ -125,73 +106,68 @@
 	background-color:white;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .bgc-text2{
 	background-color:white;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .bgc-text3{
 	background-color:white;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .bgc-text-one{
 	background-color:#1A6C6A;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .bgc-text-two{
 	background-color:#1A6C6A;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .bgc-text-three{
 	background-color:#1A6C6A;
 	width:auto;
 	height:400px;
-	margin:10px 0;
 }
 .icons{
 	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .text1{
 	background-color:#1A6C6A;
 	width:auto;
 	height:50px;
-	margin:10px 0;
 }
 .text-one{
 	background-color:white;
 	width:auto;
 	height:250px;
-	margin:10px 0;
 }
 .text-two{
 	background-color:white;
 	width:auto;
 	height:250px;
-	margin:10px 0;
 }
 .text-three{
 	background-color:white;
 	width:auto;
 	height:250px;
-	margin:10px 0;
 }
 .text-four{
 	background-color:white;
 	width:auto;
 	height:250px;
-	margin:10px 0;
+}
+.justify-content-between{
+	justify-content:space-between;
+}
+.footer{
+	background-color:white;
+	padding:10px 0;
 }
 .flex-item-1{
 	width:8.33%;
